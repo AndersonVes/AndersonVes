@@ -50,5 +50,5 @@ I have excellent design & coding skills, as well as an ability to convert requir
   
 <br>
 <p align="center">
-<img src="<a href="https://i.ibb.co/37rr3QK/VINYL-LIEBE.gif"/>
+<a href=""><img src="https://i.ibb.co/37rr3QK/VINYL-LIEBE.gif" alt="VINYL-LIEBE" border="0" /></a>
  </p>
