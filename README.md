@@ -50,5 +50,5 @@ I have excellent design & coding skills, as well as an ability to convert requir
   
 <br>
 <p align="center">
-<img src="https://ibb.co/Xb22QMH">
+<img src="https://ibb.co/Xb22QMH"/>
  </p>
