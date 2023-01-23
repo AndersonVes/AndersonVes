@@ -63,6 +63,3 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <a target="_blank" href="mailto:andersonvesg@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-andersonvesg@gmail.com-blue?style=for-the-badge&logo=gmail"></a> &nbsp; <a target="_blank" href="https://www.linkedin.com/in/AndersonVes/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-Anderson%20Vesguerber-blue?style=for-the-badge&logo=linkedin"></a> &nbsp; 
 <a target="_blank" href="https://discordapp.com/users/289246487613931520"><img alt="Discord" src="https://img.shields.io/badge/discord-vesgoburger%230882-blue?style=for-the-badge&logo=discord"></a>
 
-<br>
-<br>
-<br>
