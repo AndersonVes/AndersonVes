@@ -66,6 +66,3 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <br>
 <br>
 <br>
-<br>
-<br>
-<img src="https://i.ibb.co/37rr3QK/VINYL-LIEBE.gif" alt="Cool Image" border="0" />
